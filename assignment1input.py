@@ -2,7 +2,7 @@
 a=int(input('enter first no:'))
 b=int(input('enter second no:'))
 c=int(input('enter third no:'))
-Average= a+b+c/3
+Average= (a+b+c)/3
 print ('Average is:',Average)
 
 
