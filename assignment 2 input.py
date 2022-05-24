@@ -1,18 +1,19 @@
 question 1
 
-main_string= "Python is a case sensitive language."
+main_string= "Python is a case sensitive language"
 
-print(len(main_string))
-#A
-print(main_string[::-1])
-#B
-print(main_string[10:26])
-#C
-print(main_string.replace("a case sensitive","object oreinted"))
-#D
-print(main_string.find("a"))
-#E
-print(main_string.replace(" ",""))
+print(len(main_string))                                              #A
+print(main_string[::-1])                                             #B
+print(main_string[10:26])                                            #C
+print(main_string.replace("a case sensitive","object oreinted"))     #D
+c=0                                                                  #E
+for c in range(len(main_string)):
+    if main_string[c]=='a':
+        print(c)
+        c+=1
+    else:
+        c+=1             
+print(main_string.replace(" ",""))                                    #F
 
 question 2
 
