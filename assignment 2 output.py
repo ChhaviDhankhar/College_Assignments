@@ -3,12 +3,15 @@ Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (
 Type "help", "copyright", "credits" or "license()" for more information.
 
 ========== RESTART: C:/Users/welcome/Desktop/assignment 2/1in ass2.py ==========
-36
-.egaugnal evitisnes esac a si nohtyP
+35
+egaugnal evitisnes esac a si nohtyP
 a case sensitive
-Python is object oreinted language.
+Python is object oreinted language
 10
-Pythonisacasesensitivelanguage.
+13
+28
+32
+Pythonisacasesensitivelanguage
 
 
 #output of 2
@@ -25,10 +28,6 @@ I am from civil eng department and my CGPA is 8.50
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
-========== RESTART: C:/Users/welcome/Desktop/assignment 2/2in ass2.py ==========
-Hey, chhavi Here!
-my SID is 21102033 
-I am from civil eng department and my CGPA is 8.50
 
 ========== RESTART: C:/Users/welcome/Desktop/assignment 2/3in ass2.py ==========
 8
