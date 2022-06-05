@@ -1,0 +1,47 @@
+a=int(input("enter a number "))
+print(bin(a).replace("0b",""))
+
+
+a=int(input("input a no. "))
+e=input("input the operator ")
+b=int(input("input other no. "))
+
+if e=="+":
+    print(a+b)
+elif e=="-":
+    print(a-b)
+elif e=="^":
+    print(a**b)
+elif e=="/":
+    print(a/b)
+elif e=="*":
+    print(a*b)
+
+
+
+import math
+#A
+print((3+4)*(5))
+#B
+n=float(input("enter value of n "))
+print((n*(n-1))/2)
+#C
+r=float(input("enter value of r "))
+print(4*(math.pi)*r*r)
+#D
+a=int(input("enter value of a "))
+b=int(input("enter value of b "))
+r=int(input("enter value of r "))
+c= math.radians(a)
+h=math.radians(b)
+
+print(math.sqrt(r*((((math.cos(c))**2))+(r*(((math.cos(c))**2))))))
+#E
+y1=int(input("enter value of y1 "))
+y2=int(input("enter value of y2 "))
+x1=int(input("enter value of x1 "))
+x2=int(input("enter value of x2 "))
+if x2==x1:
+    print("invalid")
+else:    
+    print((y2-y1)/(x2-x1))
