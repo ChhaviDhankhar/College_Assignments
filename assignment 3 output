@@ -1,3 +1,5 @@
+
+#QUES 1
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
@@ -6,7 +8,7 @@ enter a number 799
 1100011111
 
 
-
+#QUES 2
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
@@ -17,7 +19,7 @@ input other no. 3
 12
 
 
-
+#QUES 3
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
@@ -36,3 +38,47 @@ enter value of y2 3
 enter value of x1 6
 enter value of x2 7
 -1.0
+
+
+#QUES 4
+0
+1
+2
+3
+4
+
+
+0
+1
+2
+3
+4
+
+
+0
+1
+2
+3
+4
+
+
+0
+1
+2
+3
+4
+
+
+0
+1
+2
+3
+4
+
+
+
+#QUES 5
+enter number of hydrogen atoms 3
+number of carbon atoms 2
+number of oxygen atoms 1
+Molecular weight =  43.04462
