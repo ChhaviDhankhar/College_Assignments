@@ -1,1 +1,55 @@
 
+#answer 1
+Enter the number=4
+4 is not a Perfect Number
+
+#answer 2
+Enter the word:sir
+sir is not a Palindrome.
+
+#answer 3
+Enter the number of rows=5
+     1 
+    1 1
+   1 2 1
+  1 3 3 1
+ 1 4 6 4 1
+ 
+ #answer 4
+ Enter the sentence/word:i am chhavi
+i am chhavi is not a Pangram.
+
+#answer 5
+Enter the words in a hyphen-separated sequence:parth-chhavi-kulvir
+chhavi-kulvir-parth
+
+#answer 6
+Student ID: 21102033
+Student Name: chhavi
+
+Student ID: 21102034
+Student Name: xyz
+
+Student Name: xyz
+Student Class: XI
+
+#answer 7
+True
+False
+True
+False
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+
+#answer 8
+4
+-2
+-2
+2
+4 -2 -2
+None
+
+#answer 9
+Enter the sequence of parantheses : ()
+() - is balanced
