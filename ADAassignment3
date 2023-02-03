@@ -20,7 +20,8 @@ void permute(string ip, string op)
 }
 int main()
 {
-    string ip = "a12s";
+    string ip;
+    cin >> ip;
     permute(ip, "");
     return 0;
 }
